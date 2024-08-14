@@ -41,3 +41,26 @@ header,nav,footer{
     flex: 2;
     gap: 20px;
 }
+.principal,.artigo-seção{
+    background-color: #ffa500;
+    padding: 20px;
+    text-align: center;
+    font-size: 20px;
+    color:white;
+    border-radius: 5px;
+}
+.seção-principal{
+    flex: 1;
+}
+.artigo-seção{
+    flex: 1;
+}
+.seção-direita{
+    background-color: #ffa500;
+    padding:20px;
+    text-align:center;
+    font-size: 20px;
+    color: white;
+    flex: 1.5;
+    border-radius: 5px;
+    }
